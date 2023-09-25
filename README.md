@@ -1,6 +1,6 @@
 <h1 align="center"> Evaluación 1 </h1>
 
-Software con la finalidad de recomendar un juego al usuario en base a
+Software con la finalidad de recomendar juegos al usuario en base a
 unas preguntas. 
 
 ### Instrucciones: 
